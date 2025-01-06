@@ -1,0 +1,2 @@
+* Guix channel
+My personal GNU Guix software & services repository
